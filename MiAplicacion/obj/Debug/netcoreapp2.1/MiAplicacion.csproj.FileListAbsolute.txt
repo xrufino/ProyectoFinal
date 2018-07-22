@@ -1,0 +1,11 @@
+C:\Users\angel\Desktop\MiAplicacion\obj\Debug\netcoreapp2.1\MiAplicacion.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\MiAplicacion\obj\Debug\netcoreapp2.1\MiAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\MiAplicacion\obj\Debug\netcoreapp2.1\MiAplicacion.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\MiAplicacion\obj\Debug\netcoreapp2.1\MiAplicacion.AssemblyInfo.cs
+C:\Users\angel\Desktop\MiAplicacion\bin\Debug\netcoreapp2.1\MiAplicacion.deps.json
+C:\Users\angel\Desktop\MiAplicacion\bin\Debug\netcoreapp2.1\MiAplicacion.runtimeconfig.json
+C:\Users\angel\Desktop\MiAplicacion\bin\Debug\netcoreapp2.1\MiAplicacion.runtimeconfig.dev.json
+C:\Users\angel\Desktop\MiAplicacion\bin\Debug\netcoreapp2.1\MiAplicacion.dll
+C:\Users\angel\Desktop\MiAplicacion\bin\Debug\netcoreapp2.1\MiAplicacion.pdb
+C:\Users\angel\Desktop\MiAplicacion\obj\Debug\netcoreapp2.1\MiAplicacion.dll
+C:\Users\angel\Desktop\MiAplicacion\obj\Debug\netcoreapp2.1\MiAplicacion.pdb
